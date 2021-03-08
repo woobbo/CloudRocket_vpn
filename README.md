@@ -1,7 +1,5 @@
 # CloudRocket_vpn
 
-![Minion](https://octodex.github.com/images/minion.png)
-
 ### 不是崇洋媚外，只是要看完整的世界。
 #### 我们提供飞快，且安全稳定的科学上网姿势。美国公司，服务全球用户，选择我们更放心！
 
